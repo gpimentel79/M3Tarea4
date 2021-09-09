@@ -1,0 +1,20 @@
+#cuadrado1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    cursor: pointer ;
+}
+#cuadrado2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    cursor: pointer;
+}
+
+#cuadrado3{
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    cursor: pointer;
+
+}
